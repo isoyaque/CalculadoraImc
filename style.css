@@ -91,7 +91,7 @@ input[type=number]{
 
     body{
        height: 80rem;
-        overflow : hiden;
+        overflow-x: hidden;
     }
 
     .container{
