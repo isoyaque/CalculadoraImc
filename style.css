@@ -90,7 +90,7 @@ input[type=number]{
 @media only screen and (max-width: 600px) {
 
     body{
-        min-height: 80rem;
+       height: 80rem;
     }
 
     .container{
